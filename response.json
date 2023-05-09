@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7EEMh7QX6AW6aFTB89ruCAaNXZPHn",
+    "object": "chat.completion",
+    "created": 1683626167,
+    "model": "gpt-3.5-turbo-0301",
+    "usage": {
+        "prompt_tokens": 1856,
+        "completion_tokens": 379,
+        "total_tokens": 2235
+    },
+    "choices": [
+        {
+            "message": {
+                "role": "assistant",
+                "content": "Dear Hiring Manager,\n\nI am excited to apply for the Data Scientist position at ABN AMRO. With a Bachelor's in Computer Science and a Master's in relevant field such as Mathematics, I possess solid data analysis skills and an innate passion for unlocking the power of data. As a true believer in the data revolution, I am thrilled to be part of a team that plays a crucial role in driving change in the banking industry.\n\nWith my previous experience as a Data Engineer and Data Manager, I have hands-on experience with using big data techniques and machine learning techniques, as well as cloud infrastructure such as Azure, AWS, and GCP. I am proficient in Python and DAX, and up-to-date on new data analysis methods, which makes me the perfect fit for the role. Additionally, I have experience exploring existing and new data, models, and techniques, which I will utilize in developing integrated data-driven solutions in business and IT processes.\n\nI am also a reliable team player with experience in initiative innovation projects. My interdisciplinary educational background has helped me develop strong analytical skills, and I am able to translate business challenges into data solutions, making me a true Data Science Evangelist. I am excited to network and collaborate with colleagues to turn complex data sets into valuable insights that benefit stakeholders within and outside the organization. \n\nAs a committed learner, I am always eager to stay up-to-date on new developments within my field. I am excited to leverage your cutting-edge technology and advanced tooling to deliver the best results possible.\n\nI look forward to contributing to the success of ABN AMRO's Data & Insights team in unlocking the potential of data, and I am confident that with my skills, personal drive, and passion for statistics, I will be a valuable asset to the team. Thank you for your consideration, and I am excited to discuss my application further.\n\nSincerely,\n\n[Your Name]"
+            },
+            "finish_reason": "stop",
+            "index": 0
+        }
+    ]
+}
